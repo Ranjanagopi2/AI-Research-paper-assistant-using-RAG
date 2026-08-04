@@ -1,0 +1,15 @@
+streamlit
+starlette<0.37
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-cohere
+langchain-experimental
+chromadb
+cohere
+python-dotenv
+pydantic
+unstructured
+pypdf
